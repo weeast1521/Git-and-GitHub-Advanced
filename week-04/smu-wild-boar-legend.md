@@ -33,6 +33,8 @@
 ????????????? pull request 바뀌나>>>???
 seodonghyuk
 
+pull request 상태에서 commit을 하게되면 추가로 pull request를 안해도 request에 추가가 된다.
+
 ---
 
 나날이 심각해지는 멧돼지의 난동에 위기감을 느낀 교수진은 긴급하게 대학원 생들을 소집하였다.
